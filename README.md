@@ -26,17 +26,6 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/120px-Epitech.png"/>
 </a>
 
-## 📊 GitHub Stats:
-<p align="center">
-   <img width ="45%" src="https://github-readme-stats.vercel.app/api?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-   <img width ="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThePepidev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 🎵 My Music
 
 <a href="https://link.deezer.com/s/31rCTy5vksbSxGYKSviaB" align="center">
