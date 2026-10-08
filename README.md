@@ -1,6 +1,6 @@
 # **Hi there 👋**
 
-- 🔭 I'm actually working on **my second year at Epitech** !
+- 🔭 I'm actually working on **my third year at Epitech** !
 - 🌱 I’m currently learning Shell, Python, Javascript, C, Rust and C++ !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
 - ⚡ I'm playing sometimes **Counter Strike** and **League of Legend**!
